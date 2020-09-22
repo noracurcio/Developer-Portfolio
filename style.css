@@ -1,4 +1,8 @@
 img {
-    width: 300px; 
+    width: 500px; 
     height: auto ;
+}
 
+body {
+    font-family: 'Antic Slab', serif;
+}
